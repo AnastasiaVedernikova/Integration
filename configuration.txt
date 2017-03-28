@@ -1,0 +1,6 @@
+absol_pr= хз
+rel_pr= хз
+threads=3
+interval_x=(0,1)
+interval_y=(0,1)
+m=5
