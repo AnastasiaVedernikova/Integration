@@ -53,9 +53,9 @@ void thread_integration(double x0, double x, double y0, double y, int m, double 
 int main()
 {
     string filename;
-//    cout << "Please enter name of configuration file with extension '.txt':>";
-//    cin >> filename;
-    filename = "config.txt";
+    cout << "Please enter name of configuration file with extension '.txt':>";
+    cin >> filename;
+//    filename = "config.txt";
     string line;
     ifstream myfile;
     map<string, string> mp;
